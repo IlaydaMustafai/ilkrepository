@@ -6,6 +6,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+       <p>
+        HOSGELDINIZ
+       </p>
+       <p>
+        Yeni eklenti 2
+       </p>
+       <p>
+        Yeni eklenti 3
+       </p>
+       <p>
+        Yeni eklenti 4
+       </p>
         <p>
           Git & Github Ogreniyorum w/Alperen
         </p>
